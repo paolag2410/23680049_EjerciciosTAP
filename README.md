@@ -1,10 +1,10 @@
 # 23680049_CALCULADORA_TAP
 
-## GUIA COMPLETA: 
+## GUIA COMPLETA: Creación de una interfaz interactiva con Flet
 
-### uv
+### 
 
-Run as a desktop app:
+Esta guia te enseñara paso a paso como diseñar una aplicación con Python y el framework Flet. Conoceremos a configurar tu entorno, diseñar un display dinámico y programar botones con estatica moderna para escribir números o limpiar la pantalla. 
 
 ```
 uv run flet run

@@ -318,4 +318,5 @@ if __name__ == "__main__":
     ft.run(main)
 ```
 ## Resultado del codigo 
+<img width="366" height="334" alt="image" src="https://github.com/user-attachments/assets/cde45209-b5e0-429d-81d6-b779d4bbdf91" />
 
